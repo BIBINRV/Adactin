@@ -15,7 +15,7 @@ public class Adactin extends BaseClass1 {
 		inputText(l.getTxtuser(), "BIBINRV02");
 		//		driver.navigate().refresh();
 		//		inputText(l.getTxtuser(),"BIBIN01");
-		inputText(l.getTxtpass(),"Password@01");
+		inputText(l.getTxtpass(),"Paword@01");
 		click(l.getBtnlogin());
 		
 		Searchadactin s= new Searchadactin();
