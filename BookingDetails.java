@@ -17,7 +17,7 @@ public class BookingDetails extends BaseClass1 {
 	
 	
 	
-	@FindBy(name="radiobutton_0")
+	@FindBy(name="radio_0")
 	private WebElement radiobutton_0;
 	@FindBy(xpath="//input[@type='submit']")
 	private WebElement submit ;
